@@ -1,4 +1,7 @@
 #### Respuesta
+- Como se ve el patrón que hace el código:
+
+![Patrón](../../../../assets/patron.webp)
 
 - El código del patrón:
 ```
@@ -34,9 +37,6 @@ function setup() {
   }
 }
 ```
-
-- Como se ve el patrón que hace el código:
-![Patrón](../../../../assets/patron.webp)
 
 - Funciones:
   - random(): lo utilicé para determinar el número de puntos en cada patrón (random(10, 30)) y para aplicar un pequeño desplazamiento aleatorio a las posiciones de los puntos (random(-10, 10)), lo que hace que los patrones sean más impredecibles y orgánicos.
