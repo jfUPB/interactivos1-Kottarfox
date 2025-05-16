@@ -1,4 +1,4 @@
-jemplo 1
+- Ejemplo 1
 Enlace del ejemplo:
 https://editor.p5js.org/generative-design/sketches/P_2_1_1_03
 
@@ -14,7 +14,7 @@ Reemplacé las líneas por pequeños triángulos rotados para observar cómo cam
 Enlace del sketch modificado:
 https://editor.p5js.org/KrowKrapp/sketches/nMhf2Bdek
 
-Ejemplo 2
+- Ejemplo 2
 Enlace del ejemplo:
 https://editor.p5js.org/generative-design/sketches/P_2_1_5_03
 
