@@ -1,3 +1,4 @@
+```
 let countdown = 20; // tiempo inicial en segundos
 let lastTime = 0;
 let timerRunning = true;
